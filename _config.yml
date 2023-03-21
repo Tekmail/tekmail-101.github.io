@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: tekmail-101 coding space
+title: tekmail coding space
 email: velobiero@gmail.com
 author: Vellyne
 
@@ -43,7 +43,7 @@ author: Vellyne
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  tekmail-101 coding space is your go-to destination for all things tech-related. Our site is dedicated to providing the latest news and updates on the ever-evolving world of technology, from gadgets and software to emerging trends and innovations. Whether you're a seasoned tech enthusiast or just starting out, our easy-to-read articles, reviews, and tutorials will keep you informed and engaged. Join our community of like-minded techies and stay ahead of the curve with tekmail-101 coding space.
+  tekmail coding space is your go-to destination for all things tech-related. Our site is dedicated to providing the latest news and updates on the ever-evolving world of technology, from gadgets and software to emerging trends and innovations. Whether you're a seasoned tech enthusiast or just starting out, our easy-to-read articles, reviews, and tutorials will keep you informed and engaged. Join our community of like-minded techies and stay ahead of the curve with tekmail coding space.
 
 
 
